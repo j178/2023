@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - name: Download github-contrib-stats
         uses: robinraju/release-downloader@v1.8
         with:
