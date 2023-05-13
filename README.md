@@ -6,7 +6,7 @@ Previous year: [2022](https://github.com/j178/2022)
 
 ## GitHub Related
 
-## Repos I Created
+### Repos I Created
 
 <!-- BEGIN:created_repos -->
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
@@ -36,7 +36,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | Total |                                                                                    |            | 830   | 55    |             |
 <!-- END:created_repos -->
 
-## Repos I've Contributed To
+### Repos I've Contributed To
 
 <!-- BEGIN:contributed -->
 | No.   | Name                                                                        | First PR                                                           | Last PR                                                            | PR Count |
