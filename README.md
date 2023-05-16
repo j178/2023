@@ -11,8 +11,8 @@ Previous year: [2022](https://github.com/j178/2022)
 <!-- BEGIN:created_repos -->
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
-| 1     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 381   | 19    | 2023-05-14  |
-| 2     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 354   | 28    | 2023-04-29  |
+| 1     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 382   | 19    | 2023-05-14  |
+| 2     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 357   | 29    | 2023-05-15  |
 | 3     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 22    | 5     | 2017-06-09  |
 | 4     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
 | 5     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
@@ -20,23 +20,25 @@ Previous year: [2022](https://github.com/j178/2022)
 | 7     | [github-stargazer](https://github.com/j178/github-stargazer)                       | Go         | 8     | 0     | 2023-03-29  |
 | 8     | [2022](https://github.com/j178/2022)                                               | Python     | 6     | 0     | 2022-12-31  |
 | 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2019-12-04  |
-| 10    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
-| 11    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-05-14  |
-| 12    | [twiyou](https://github.com/j178/twiyou)                                           | Go         | 2     | 0     | 2023-01-09  |
-| 13    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
-| 14    | [auto-snatch-course](https://github.com/j178/auto-snatch-course)                   | Python     | 1     | 0     | 2018-04-14  |
-| 15    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
-| 16    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
-| 17    | [json-tutorial](https://github.com/j178/json-tutorial)                             | C          | 1     | 0     | 2017-01-19  |
-| 18    | [leetcode](https://github.com/j178/leetcode)                                       | Go         | 1     | 0     | 2023-05-14  |
-| 19    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 20    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
-| 21    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-05-14  |
-| 22    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
-| 23    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
-| 24    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
-| 25    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
-| Total |                                                                                    |            | 833   | 59    |             |
+| 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 3     | 0     | 2023-05-15  |
+| 11    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
+| 12    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-15  |
+| 13    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-05-15  |
+| 14    | [twiyou](https://github.com/j178/twiyou)                                           | Go         | 2     | 0     | 2023-01-09  |
+| 15    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
+| 16    | [auto-snatch-course](https://github.com/j178/auto-snatch-course)                   | Python     | 1     | 0     | 2018-04-14  |
+| 17    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
+| 18    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
+| 19    | [json-tutorial](https://github.com/j178/json-tutorial)                             | C          | 1     | 0     | 2017-01-19  |
+| 20    | [leetcode](https://github.com/j178/leetcode)                                       | Go         | 1     | 0     | 2023-05-15  |
+| 21    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
+| 22    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
+| 23    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-05-14  |
+| 24    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
+| 25    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
+| 26    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
+| 27    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
+| Total |                                                                                    |            | 842   | 60    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
@@ -51,12 +53,12 @@ Previous year: [2022](https://github.com/j178/2022)
 | 5     | [redis/go-redis](https://github.com/redis/go-redis)                                 | Go         | [2022-08-01](https://github.com/redis/go-redis/pull/2174)               | [2022-10-05](https://github.com/redis/go-redis/pull/2231)               | [4](https://github.com/redis/go-redis/pulls?q=is%3Apr+author%3Aj178)                 |
 | 6     | [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo)                 | Go         | [2022-07-18](https://github.com/centrifugal/centrifugo/pull/525)        | [2022-07-20](https://github.com/centrifugal/centrifugo/pull/528)        | [4](https://github.com/centrifugal/centrifugo/pulls?q=is%3Apr+author%3Aj178)         |
 | 7     | [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)                   | Go         | [2021-09-03](https://github.com/goreleaser/goreleaser/pull/2455)        | [2023-01-30](https://github.com/goreleaser/goreleaser/pull/3730)        | [3](https://github.com/goreleaser/goreleaser/pulls?q=is%3Apr+author%3Aj178)          |
-| 8     | [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs)                     | Rust       | [2023-04-03](https://github.com/zurawiki/tiktoken-rs/pull/14)           | [2023-04-04](https://github.com/zurawiki/tiktoken-rs/pull/15)           | [2](https://github.com/zurawiki/tiktoken-rs/pulls?q=is%3Apr+author%3Aj178)           |
-| 9     | [python/cpython](https://github.com/python/cpython)                                 | Python     | [2021-06-16](https://github.com/python/cpython/pull/26754)              | [2021-12-22](https://github.com/python/cpython/pull/30227)              | [2](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Aj178)                 |
-| 10    | [rq/rq](https://github.com/rq/rq)                                                   | Python     | [2019-06-16](https://github.com/rq/rq/pull/1108)                        | [2019-06-16](https://github.com/rq/rq/pull/1109)                        | [2](https://github.com/rq/rq/pulls?q=is%3Apr+author%3Aj178)                          |
-| 11    | [yihong0618/github-readme-stats](https://github.com/yihong0618/github-readme-stats) | Go         | [2023-05-14](https://github.com/yihong0618/github-readme-stats/pull/13) | [2023-05-14](https://github.com/yihong0618/github-readme-stats/pull/13) | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3Aj178) |
-| 12    | [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)                   | Go         | [2023-05-11](https://github.com/caarlos0/fork-cleaner/pull/142)         | [2023-05-11](https://github.com/caarlos0/fork-cleaner/pull/142)         | [1](https://github.com/caarlos0/fork-cleaner/pulls?q=is%3Apr+author%3Aj178)          |
-| 13    | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)                                   | Rust       | [2023-05-10](https://github.com/mitsuhiko/rye/pull/127)                 | [2023-05-10](https://github.com/mitsuhiko/rye/pull/127)                 | [1](https://github.com/mitsuhiko/rye/pulls?q=is%3Apr+author%3Aj178)                  |
+| 8     | [mitsuhiko/rye](https://github.com/mitsuhiko/rye)                                   | Rust       | [2023-05-10](https://github.com/mitsuhiko/rye/pull/127)                 | [2023-05-15](https://github.com/mitsuhiko/rye/pull/161)                 | [2](https://github.com/mitsuhiko/rye/pulls?q=is%3Apr+author%3Aj178)                  |
+| 9     | [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs)                     | Rust       | [2023-04-03](https://github.com/zurawiki/tiktoken-rs/pull/14)           | [2023-04-04](https://github.com/zurawiki/tiktoken-rs/pull/15)           | [2](https://github.com/zurawiki/tiktoken-rs/pulls?q=is%3Apr+author%3Aj178)           |
+| 10    | [python/cpython](https://github.com/python/cpython)                                 | Python     | [2021-06-16](https://github.com/python/cpython/pull/26754)              | [2021-12-22](https://github.com/python/cpython/pull/30227)              | [2](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Aj178)                 |
+| 11    | [rq/rq](https://github.com/rq/rq)                                                   | Python     | [2019-06-16](https://github.com/rq/rq/pull/1108)                        | [2019-06-16](https://github.com/rq/rq/pull/1109)                        | [2](https://github.com/rq/rq/pulls?q=is%3Apr+author%3Aj178)                          |
+| 12    | [yihong0618/github-readme-stats](https://github.com/yihong0618/github-readme-stats) | Go         | [2023-05-14](https://github.com/yihong0618/github-readme-stats/pull/13) | [2023-05-14](https://github.com/yihong0618/github-readme-stats/pull/13) | [1](https://github.com/yihong0618/github-readme-stats/pulls?q=is%3Apr+author%3Aj178) |
+| 13    | [caarlos0/fork-cleaner](https://github.com/caarlos0/fork-cleaner)                   | Go         | [2023-05-11](https://github.com/caarlos0/fork-cleaner/pull/142)         | [2023-05-11](https://github.com/caarlos0/fork-cleaner/pull/142)         | [1](https://github.com/caarlos0/fork-cleaner/pulls?q=is%3Apr+author%3Aj178)          |
 | 14    | [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go)                         | Go         | [2023-04-08](https://github.com/pkoukk/tiktoken-go/pull/5)              | [2023-04-08](https://github.com/pkoukk/tiktoken-go/pull/5)              | [1](https://github.com/pkoukk/tiktoken-go/pulls?q=is%3Apr+author%3Aj178)             |
 | 15    | [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit)                         | Rust       | [2023-04-06](https://github.com/zurawiki/gptcommit/pull/139)            | [2023-04-06](https://github.com/zurawiki/gptcommit/pull/139)            | [1](https://github.com/zurawiki/gptcommit/pulls?q=is%3Apr+author%3Aj178)             |
 | 16    | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)               | Go         | [2023-04-03](https://github.com/charmbracelet/bubbletea/pull/709)       | [2023-04-03](https://github.com/charmbracelet/bubbletea/pull/709)       | [1](https://github.com/charmbracelet/bubbletea/pulls?q=is%3Apr+author%3Aj178)        |
@@ -77,5 +79,5 @@ Previous year: [2022](https://github.com/j178/2022)
 | 31    | [urllib3/urllib3](https://github.com/urllib3/urllib3)                               | Python     | [2020-11-26](https://github.com/urllib3/urllib3/pull/2095)              | [2020-11-26](https://github.com/urllib3/urllib3/pull/2095)              | [1](https://github.com/urllib3/urllib3/pulls?q=is%3Apr+author%3Aj178)                |
 | 32    | [aio-libs/yarl](https://github.com/aio-libs/yarl)                                   | Python     | [2020-05-20](https://github.com/aio-libs/yarl/pull/452)                 | [2020-05-20](https://github.com/aio-libs/yarl/pull/452)                 | [1](https://github.com/aio-libs/yarl/pulls?q=is%3Apr+author%3Aj178)                  |
 | 33    | [7sDream/kd100](https://github.com/7sDream/kd100)                                   | Python     | [2016-11-16](https://github.com/7sDream/kd100/pull/1)                   | [2016-11-16](https://github.com/7sDream/kd100/pull/1)                   | [1](https://github.com/7sDream/kd100/pulls?q=is%3Apr+author%3Aj178)                  |
-| Total |                                                                                     |            |                                                                         |                                                                         | 80                                                                                   |
+| Total |                                                                                     |            |                                                                         |                                                                         | 81                                                                                   |
 <!-- END:contributed -->
