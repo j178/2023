@@ -12,14 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Download github-contrib-stats
-        uses: robinraju/release-downloader@v1.8
-        with:
-          repository: j178/github-contrib-stats
-          latest: true
-          fileName: "github-contrib-stats*.tar.gz"
-          extract: true
+        run: |
+          curl -ssL --output /tmp/github-contrib-stats.tar.gz https://github.com/j178/github-contrib-stats/releases/latest/download/github-contrib-stats-x86_64-unknown-linux-gnu.tar.gz && \
+          tar -xf /tmp/github-contrib-stats.tar.gz -C /tmp --strip-components=1 && \
+          chmod +x /tmp/github-contrib-stats
       - name: Update stats
-        run: ./github-contrib-stats -u ${{ github.repository_owner }} -o README.md
+        run: /tmp/github-contrib-stats -u ${{ github.repository_owner }} -o README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
