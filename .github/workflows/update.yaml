@@ -14,7 +14,7 @@ jobs:
       - name: Download github-contrib-stats
         run: |
           curl -sSL --output /tmp/github-contrib-stats.tar.gz https://github.com/j178/github-contrib-stats/releases/latest/download/github-contrib-stats-x86_64-unknown-linux-gnu.tar.gz && \
-          tar -xf /tmp/github-contrib-stats.tar.gz -C /tmp --strip-components=1 && \
+          tar -xvf /tmp/github-contrib-stats.tar.gz -C /tmp && \
           chmod +x /tmp/github-contrib-stats
       - name: Update stats
         run: /tmp/github-contrib-stats -u ${{ github.repository_owner }} -o README.md
