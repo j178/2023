@@ -12,7 +12,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
 | 1     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 382   | 19    | 2023-05-14  |
-| 2     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 360   | 29    | 2023-05-15  |
+| 2     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 359   | 29    | 2023-05-15  |
 | 3     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 22    | 5     | 2017-06-09  |
 | 4     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
 | 5     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
@@ -38,7 +38,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 25    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
 | 26    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 27    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
-| Total |                                                                                    |            | 846   | 60    |             |
+| Total |                                                                                    |            | 845   | 60    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
