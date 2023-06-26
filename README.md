@@ -22,7 +22,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
 | 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
 | 11    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
-| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-06-24  |
+| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-06-25  |
 | 13    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
 | 14    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
 | 15    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
