@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: GitHubSecurityLab/actions-permissions/monitor@v1
       - uses: actions/checkout@v3
       - name: Download github-contrib-stats
         run: |
