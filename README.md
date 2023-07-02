@@ -12,17 +12,17 @@ Previous year: [2022](https://github.com/j178/2022)
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
 | 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 561   | 39    | 2023-06-15  |
-| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 402   | 23    | 2023-06-26  |
+| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 402   | 23    | 2023-07-01  |
 | 3     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
 | 4     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
 | 5     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
 | 6     | [ipgw](https://github.com/j178/ipgw)                                               | Python     | 9     | 0     | 2018-09-10  |
-| 7     | [github-stargazer](https://github.com/j178/github-stargazer)                       | Go         | 8     | 0     | 2023-06-30  |
+| 7     | [github-stargazer](https://github.com/j178/github-stargazer)                       | Go         | 8     | 0     | 2023-07-01  |
 | 8     | [2022](https://github.com/j178/2022)                                               | Python     | 6     | 0     | 2022-12-31  |
 | 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
 | 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
 | 11    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
-| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-06-30  |
+| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-07-01  |
 | 13    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
 | 14    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
 | 15    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
@@ -64,7 +64,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 18    | [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go)                         | [2023-04-08](https://github.com/pkoukk/tiktoken-go/pull/5)              | [2023-04-08](https://github.com/pkoukk/tiktoken-go/pull/5)              | [1](https://github.com/pkoukk/tiktoken-go/pulls?q=is%3Apr+author%3Aj178)             |
 | 19    | [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit)                         | [2023-04-06](https://github.com/zurawiki/gptcommit/pull/139)            | [2023-04-06](https://github.com/zurawiki/gptcommit/pull/139)            | [1](https://github.com/zurawiki/gptcommit/pulls?q=is%3Apr+author%3Aj178)             |
 | 20    | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)               | [2023-04-03](https://github.com/charmbracelet/bubbletea/pull/709)       | [2023-04-03](https://github.com/charmbracelet/bubbletea/pull/709)       | [1](https://github.com/charmbracelet/bubbletea/pulls?q=is%3Apr+author%3Aj178)        |
-| 21    | [zellyn/kooky](https://github.com/zellyn/kooky)                                     | [2023-01-05](https://github.com/zellyn/kooky/pull/56)                   | [2023-01-05](https://github.com/zellyn/kooky/pull/56)                   | [1](https://github.com/zellyn/kooky/pulls?q=is%3Apr+author%3Aj178)                   |
+| 21    | [browserutils/kooky](https://github.com/browserutils/kooky)                         | [2023-01-05](https://github.com/browserutils/kooky/pull/56)             | [2023-01-05](https://github.com/browserutils/kooky/pull/56)             | [1](https://github.com/browserutils/kooky/pulls?q=is%3Apr+author%3Aj178)             |
 | 22    | [github/docs](https://github.com/github/docs)                                       | [2022-11-10](https://github.com/github/docs/pull/21929)                 | [2022-11-10](https://github.com/github/docs/pull/21929)                 | [1](https://github.com/github/docs/pulls?q=is%3Apr+author%3Aj178)                    |
 | 23    | [yihong0618/running_page](https://github.com/yihong0618/running_page)               | [2022-10-13](https://github.com/yihong0618/running_page/pull/319)       | [2022-10-13](https://github.com/yihong0618/running_page/pull/319)       | [1](https://github.com/yihong0618/running_page/pulls?q=is%3Apr+author%3Aj178)        |
 | 24    | [pdm-project/pdm](https://github.com/pdm-project/pdm)                               | [2022-10-13](https://github.com/pdm-project/pdm/pull/1434)              | [2022-10-13](https://github.com/pdm-project/pdm/pull/1434)              | [1](https://github.com/pdm-project/pdm/pulls?q=is%3Apr+author%3Aj178)                |
