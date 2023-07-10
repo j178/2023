@@ -22,7 +22,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
 | 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
 | 11    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
-| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-07-08  |
+| 12    | [j178](https://github.com/j178/j178)                                               | N/A        | 2     | 1     | 2023-07-09  |
 | 13    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
 | 14    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
 | 15    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
@@ -33,7 +33,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 20    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
 | 21    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 22    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-06-26  |
-| 23    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-07-08  |
+| 23    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-07-09  |
 | 24    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 25    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 26    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
