@@ -11,8 +11,8 @@ Previous year: [2022](https://github.com/j178/2022)
 <!-- BEGIN:created_repos -->
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
-| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 569   | 41    | 2023-06-15  |
-| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 402   | 23    | 2023-07-14  |
+| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 571   | 41    | 2023-06-15  |
+| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 403   | 23    | 2023-07-14  |
 | 3     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
 | 4     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
 | 5     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
@@ -21,7 +21,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 8     | [2022](https://github.com/j178/2022)                                               | Python     | 6     | 0     | 2022-12-31  |
 | 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
 | 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
-| 11    | [j178](https://github.com/j178/j178)                                               | N/A        | 3     | 1     | 2023-07-15  |
+| 11    | [j178](https://github.com/j178/j178)                                               | N/A        | 3     | 1     | 2023-07-16  |
 | 12    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
 | 13    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
 | 14    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
@@ -33,11 +33,11 @@ Previous year: [2022](https://github.com/j178/2022)
 | 20    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
 | 21    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 22    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-06-26  |
-| 23    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-07-15  |
+| 23    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-07-16  |
 | 24    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 25    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 26    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
-| Total |                                                                                    |            | 1077  | 76    |             |
+| Total |                                                                                    |            | 1080  | 76    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
