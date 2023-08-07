@@ -11,34 +11,34 @@ Previous year: [2022](https://github.com/j178/2022)
 <!-- BEGIN:created_repos -->
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
-| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 580   | 44    | 2023-07-25  |
-| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 424   | 24    | 2023-08-05  |
-| 3     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
-| 4     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
-| 5     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
-| 6     | [github-stargazer](https://github.com/j178/github-stargazer)                       | Go         | 10    | 0     | 2023-07-11  |
-| 7     | [ipgw](https://github.com/j178/ipgw)                                               | Python     | 9     | 0     | 2018-09-10  |
-| 8     | [2022](https://github.com/j178/2022)                                               | Python     | 6     | 0     | 2022-12-31  |
-| 9     | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
-| 10    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
-| 11    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
-| 12    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
-| 13    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
-| 14    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
-| 15    | [json-tutorial](https://github.com/j178/json-tutorial)                             | C          | 1     | 0     | 2017-01-19  |
-| 16    | [auto-snatch-course](https://github.com/j178/auto-snatch-course)                   | Python     | 1     | 0     | 2018-04-14  |
-| 17    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
-| 18    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
-| 19    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 20    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-08-05  |
-| 21    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
-| 22    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-08-05  |
-| 23    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-08-05  |
-| 24    | [github-s3](https://github.com/j178/github-s3)                                     | Go         | 1     | 0     | 2023-08-05  |
+| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 581   | 45    | 2023-07-25  |
+| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 425   | 24    | 2023-08-05  |
+| 3     | [github-s3](https://github.com/j178/github-s3)                                     | Go         | 32    | 1     | 2023-08-06  |
+| 4     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
+| 5     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
+| 6     | [tiktoken-go](https://github.com/j178/tiktoken-go)                                 | Go         | 15    | 1     | 2023-04-21  |
+| 7     | [github-stargazer](https://github.com/j178/github-stargazer)                       | Go         | 10    | 0     | 2023-07-11  |
+| 8     | [ipgw](https://github.com/j178/ipgw)                                               | Python     | 9     | 0     | 2018-09-10  |
+| 9     | [2022](https://github.com/j178/2022)                                               | Python     | 6     | 0     | 2022-12-31  |
+| 10    | [spotlight](https://github.com/j178/spotlight)                                     | Python     | 4     | 0     | 2023-06-06  |
+| 11    | [github-contrib-stats](https://github.com/j178/github-contrib-stats)               | Rust       | 4     | 0     | 2023-05-19  |
+| 12    | [van](https://github.com/j178/van)                                                 | Python     | 2     | 1     | 2020-08-04  |
+| 13    | [benchdiff](https://github.com/j178/benchdiff)                                     | Go         | 2     | 0     | 2022-10-30  |
+| 14    | [git-first](https://github.com/j178/git-first)                                     | Rust       | 2     | 0     | 2023-05-16  |
+| 15    | [neu6v-crawler](https://github.com/j178/neu6v-crawler)                             | Python     | 1     | 0     | 2016-10-29  |
+| 16    | [json-tutorial](https://github.com/j178/json-tutorial)                             | C          | 1     | 0     | 2017-01-19  |
+| 17    | [auto-snatch-course](https://github.com/j178/auto-snatch-course)                   | Python     | 1     | 0     | 2018-04-14  |
+| 18    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
+| 19    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
+| 20    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
+| 21    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-08-06  |
+| 22    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
+| 23    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-08-05  |
+| 24    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-08-06  |
 | 25    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 26    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 27    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
-| Total |                                                                                    |            | 1109  | 80    |             |
+| Total |                                                                                    |            | 1142  | 82    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
