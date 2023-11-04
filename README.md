@@ -31,10 +31,10 @@ Previous year: [2022](https://github.com/j178/2022)
 | 18    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
 | 19    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
 | 20    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 21    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-11-02  |
+| 21    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-11-03  |
 | 22    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 23    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-09-14  |
-| 24    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-11-02  |
+| 24    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-11-03  |
 | 25    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 26    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 27    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
