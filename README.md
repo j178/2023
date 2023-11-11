@@ -12,7 +12,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
 | 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 612   | 45    | 2023-11-08  |
-| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 450   | 23    | 2023-11-01  |
+| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 451   | 24    | 2023-11-10  |
 | 3     | [github-s3](https://github.com/j178/github-s3)                                     | Go         | 48    | 1     | 2023-08-15  |
 | 4     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
 | 5     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
@@ -31,14 +31,14 @@ Previous year: [2022](https://github.com/j178/2022)
 | 18    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
 | 19    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
 | 20    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 21    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-11-09  |
+| 21    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-11-10  |
 | 22    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 23    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-11-08  |
-| 24    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-11-09  |
+| 24    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-11-10  |
 | 25    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 26    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 27    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
-| Total |                                                                                    |            | 1214  | 81    |             |
+| Total |                                                                                    |            | 1215  | 82    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
