@@ -35,7 +35,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | 22    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2023-12-28  |
 | 23    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 24    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2023-12-02  |
-| 25    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-12-28  |
+| 25    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2023-12-29  |
 | 26    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 27    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 28    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
