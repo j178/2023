@@ -11,7 +11,7 @@ Previous year: [2022](https://github.com/j178/2022)
 <!-- BEGIN:created_repos -->
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
-| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 622   | 47    | 2024-01-17  |
+| 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 623   | 47    | 2024-01-17  |
 | 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 468   | 27    | 2024-01-12  |
 | 3     | [github-s3](https://github.com/j178/github-s3)                                     | Go         | 49    | 1     | 2023-08-15  |
 | 4     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
@@ -32,14 +32,14 @@ Previous year: [2022](https://github.com/j178/2022)
 | 19    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
 | 20    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
 | 21    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 22    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2024-01-18  |
+| 22    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2024-01-19  |
 | 23    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 24    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2024-01-17  |
-| 25    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2024-01-18  |
+| 25    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2024-01-19  |
 | 26    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 27    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 28    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
-| Total |                                                                                    |            | 1244  | 87    |             |
+| Total |                                                                                    |            | 1245  | 87    |             |
 <!-- END:created_repos -->
 
 ### Repos I've Contributed To
