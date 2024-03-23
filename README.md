@@ -12,7 +12,7 @@ Previous year: [2022](https://github.com/j178/2022)
 | No.   | Name                                                                               | Language   | Stars | Forks | Last Update |
 |-------|------------------------------------------------------------------------------------|------------|-------|-------|-------------|
 | 1     | [chatgpt](https://github.com/j178/chatgpt)                                         | Go         | 645   | 47    | 2024-03-10  |
-| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 510   | 32    | 2024-03-21  |
+| 2     | [leetgo](https://github.com/j178/leetgo)                                           | Go         | 510   | 32    | 2024-03-22  |
 | 3     | [github-s3](https://github.com/j178/github-s3)                                     | Go         | 48    | 1     | 2023-08-15  |
 | 4     | [fanfou-cli](https://github.com/j178/fanfou-cli)                                   | Python     | 23    | 5     | 2017-06-09  |
 | 5     | [xiaoai-shutdown-my-computer](https://github.com/j178/xiaoai-shutdown-my-computer) | Python     | 17    | 0     | 2023-04-07  |
@@ -33,10 +33,10 @@ Previous year: [2022](https://github.com/j178/2022)
 | 20    | [course-schedule-icalendar](https://github.com/j178/course-schedule-icalendar)     | Python     | 1     | 0     | 2017-02-10  |
 | 21    | [fanfou-bots](https://github.com/j178/fanfou-bots)                                 | Python     | 1     | 1     | 2020-07-23  |
 | 22    | [naive-sshd](https://github.com/j178/naive-sshd)                                   | Go         | 1     | 0     | 2019-10-15  |
-| 23    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2024-03-21  |
+| 23    | [j178](https://github.com/j178/j178)                                               | N/A        | 1     | 1     | 2024-03-22  |
 | 24    | [v2ex](https://github.com/j178/v2ex)                                               | Python     | 1     | 0     | 2022-07-28  |
 | 25    | [scoop-bucket](https://github.com/j178/scoop-bucket)                               | PowerShell | 1     | 0     | 2024-03-20  |
-| 26    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2024-03-21  |
+| 26    | [2023](https://github.com/j178/2023)                                               | N/A        | 1     | 0     | 2024-03-22  |
 | 27    | [MyWechat](https://github.com/j178/MyWechat)                                       | PHP        | 0     | 1     | 2015-12-24  |
 | 28    | [pyrandom](https://github.com/j178/pyrandom)                                       | Python     | 0     | 1     | 2019-04-09  |
 | 29    | [GreedySnake](https://github.com/j178/GreedySnake)                                 | Java       | 0     | 1     | 2016-11-01  |
@@ -48,7 +48,7 @@ Previous year: [2022](https://github.com/j178/2022)
 <!-- BEGIN:contributed -->
 | No.   | Name                                                                                | First PR                                                                | Last PR                                                                 | PR Count                                                                             |
 |-------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| 1     | [astral-sh/rye](https://github.com/astral-sh/rye)                                   | [2023-05-10](https://github.com/astral-sh/rye/pull/127)                 | [2024-03-20](https://github.com/astral-sh/rye/pull/910)                 | [33](https://github.com/astral-sh/rye/pulls?q=is%3Apr+author%3Aj178)                 |
+| 1     | [astral-sh/rye](https://github.com/astral-sh/rye)                                   | [2023-05-10](https://github.com/astral-sh/rye/pull/127)                 | [2024-03-22](https://github.com/astral-sh/rye/pull/923)                 | [35](https://github.com/astral-sh/rye/pulls?q=is%3Apr+author%3Aj178)                 |
 | 2     | [encode/httpx](https://github.com/encode/httpx)                                     | [2019-12-31](https://github.com/encode/httpx/pull/704)                  | [2022-07-13](https://github.com/encode/httpx/pull/2302)                 | [15](https://github.com/encode/httpx/pulls?q=is%3Apr+author%3Aj178)                  |
 | 3     | [centrifugal/centrifuge](https://github.com/centrifugal/centrifuge)                 | [2022-06-24](https://github.com/centrifugal/centrifuge/pull/230)        | [2022-09-09](https://github.com/centrifugal/centrifuge/pull/252)        | [10](https://github.com/centrifugal/centrifuge/pulls?q=is%3Apr+author%3Aj178)        |
 | 4     | [encode/httpcore](https://github.com/encode/httpcore)                               | [2020-08-12](https://github.com/encode/httpcore/pull/154)               | [2022-07-13](https://github.com/encode/httpcore/pull/565)               | [8](https://github.com/encode/httpcore/pulls?q=is%3Apr+author%3Aj178)                |
@@ -88,5 +88,5 @@ Previous year: [2022](https://github.com/j178/2022)
 | 38    | [urllib3/urllib3](https://github.com/urllib3/urllib3)                               | [2020-11-26](https://github.com/urllib3/urllib3/pull/2095)              | [2020-11-26](https://github.com/urllib3/urllib3/pull/2095)              | [1](https://github.com/urllib3/urllib3/pulls?q=is%3Apr+author%3Aj178)                |
 | 39    | [aio-libs/yarl](https://github.com/aio-libs/yarl)                                   | [2020-05-20](https://github.com/aio-libs/yarl/pull/452)                 | [2020-05-20](https://github.com/aio-libs/yarl/pull/452)                 | [1](https://github.com/aio-libs/yarl/pulls?q=is%3Apr+author%3Aj178)                  |
 | 40    | [7sDream/kd100](https://github.com/7sDream/kd100)                                   | [2016-11-16](https://github.com/7sDream/kd100/pull/1)                   | [2016-11-16](https://github.com/7sDream/kd100/pull/1)                   | [1](https://github.com/7sDream/kd100/pulls?q=is%3Apr+author%3Aj178)                  |
-| Total |                                                                                     |                                                                         |                                                                         | 129                                                                                  |
+| Total |                                                                                     |                                                                         |                                                                         | 131                                                                                  |
 <!-- END:contributed -->
